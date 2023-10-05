@@ -1,0 +1,5 @@
+my_age = int(input())
+dad_age = int(input())
+mom_age = int(input())
+grandma_age = int(input())
+print(str(my_age)+" " + str(mom_age)+" " + str(dad_age)+" " + str(grandma_age))
